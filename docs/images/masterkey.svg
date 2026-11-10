@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="96" height="96" role="img" aria-label="MasterKey">
+  <rect width="64" height="64" rx="14" fill="#161b22"/>
+  <g transform="translate(8 8) scale(2)" fill="none" stroke="#4aa8ff" stroke-width="2" stroke-linecap="round">
+    <circle cx="8" cy="12" r="4"/><path d="M12 12h9M18 12v3M21 12v2"/>
+  </g>
+</svg>

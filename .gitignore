@@ -1,0 +1,4 @@
+*.exe
+*.msi
+*.sig
+latest.json

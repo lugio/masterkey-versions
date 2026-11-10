@@ -1,0 +1,15 @@
+name: Install or update problem
+description: The installer or the in-app update does not work as expected.
+labels: [bug]
+body:
+  - type: input
+    id: version
+    attributes: { label: MasterKey version, description: "Shown next to the logo, e.g. 0.4.0" }
+    validations: { required: true }
+  - type: input
+    id: windows
+    attributes: { label: Windows version, description: "e.g. Windows 11 24H2" }
+  - type: textarea
+    id: what
+    attributes: { label: What happened, description: "Steps, and the message shown if any. No host names, passwords or personal data." }
+    validations: { required: true }
