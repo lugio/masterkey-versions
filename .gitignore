@@ -2,3 +2,6 @@
 *.msi
 *.sig
 latest.json
+*.AppImage
+*.deb
+*.pkg.tar.zst
