@@ -3,7 +3,7 @@
 <h1 align="center">MasterKey — releases</h1>
 
 <p align="center">
-  <a href="https://github.com/lugio/masterkey-versions/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/lugio/masterkey-versions?include_prereleases&label=version"></a>
+  <a href="https://github.com/lugio/masterkey-versions/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/lugio/masterkey-versions?label=version"></a>
   <img alt="Platform" src="https://img.shields.io/badge/platform-Windows-0078d4">
   <img alt="Signed updates" src="https://img.shields.io/badge/updates-signed%20(minisign)-2ea043">
 </p>
@@ -42,7 +42,7 @@ listed before the restart:
 2. Run it (per-user install, no administrator rights needed).
 3. Later versions arrive through the notice in the title bar.
 
-Releases are **pre-releases** until version 1: test builds, for evaluation.
+Until version 1, every release is a **test build**, for evaluation (published as a regular release so that the update feed can find it).
 
 ## License
 

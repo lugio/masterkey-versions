@@ -36,7 +36,7 @@ rappelées avant la relance :
 2. Le lancer (installation pour l'utilisateur, sans droits d'administrateur).
 3. Les versions suivantes arrivent par l'avis de la barre de titre.
 
-Les versions sont des **pré-versions** jusqu'à la v1 : des versions d'essai, pour évaluation.
+Jusqu'à la v1, chaque version est une **version d'essai**, pour évaluation (publiée comme version normale pour que la fiche de mise à jour la trouve).
 
 ## Licence
 
