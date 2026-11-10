@@ -7,8 +7,8 @@ body:
     attributes: { label: MasterKey version, description: "Shown next to the logo, e.g. 0.4.0" }
     validations: { required: true }
   - type: input
-    id: windows
-    attributes: { label: Windows version, description: "e.g. Windows 11 24H2" }
+    id: system
+    attributes: { label: System, description: "e.g. Windows 11 24H2, Ubuntu 24.04, Arch Linux (Hyprland) — and the package used (installer, AppImage, .deb, Arch)" }
   - type: textarea
     id: what
     attributes: { label: What happened, description: "Steps, and the message shown if any. No host names, passwords or personal data." }
